@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7335f44e-8a6d-4b14-a864-eb224ab45f44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/A0321I1_NguyenNgocLePhuc_Module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/systemTime/systemTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/khai_bao_su_dung_bien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/su_dung_toan_tu/su_dung_toan_tu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/A0321I1_NguyenNgocLePhuc_Module2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/System_Time.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/out/production/System_Time/systemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/src/systemTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/khai_bao_va_su_dung_bien.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/out/production/khai_bao_va_su_dung_bien/khaiBaoVaSuDungBien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/src/khaiBaoVaSuDungBien.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1u7laufhDgzsUCZiKz0uxwcEjPT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.su_dung_toan_tu">
+    <configuration name="khai_bao_su_dung_bien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai1_introduce_to_java.thuc_hanh.khai_bao_va_su_dung_bien.khai_bao_su_dung_bien" />
+      <module name="A0321I1_NguyenNgocLePhuc_Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai1_introduce_to_java.thuc_hanh.khai_bao_va_su_dung_bien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="su_dung_toan_tu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai1_introduce_to_java.thuc_hanh.su_dung_toan_tu.su_dung_toan_tu" />
+      <module name="A0321I1_NguyenNgocLePhuc_Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai1_introduce_to_java.thuc_hanh.su_dung_toan_tu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="systemTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai1_introduce_to_java.thuc_hanh.hien_thi_thoi_gian_cua_he_thong.systemTime.systemTime" />
+      <module name="A0321I1_NguyenNgocLePhuc_Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai1_introduce_to_java.thuc_hanh.hien_thi_thoi_gian_cua_he_thong.systemTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.su_dung_toan_tu" />
+        <item itemvalue="Application.khai_bao_su_dung_bien" />
+        <item itemvalue="Application.systemTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7335f44e-8a6d-4b14-a864-eb224ab45f44" name="Default Changelist" comment="" />
+      <created>1624024574145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624024574145</updated>
+      <workItem from="1624024576840" duration="3185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1624024582195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1624024582195" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1624027589644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624027589644" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1624027589643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624027589643" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1624027589643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624027589643" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1624027589644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624027589644" />
+  </component>
+</project>

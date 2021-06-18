@@ -1,4 +1,6 @@
-public class khaiBaoVaSuDungBien {
+package bai1_introduce_to_java.thuc_hanh.khai_bao_va_su_dung_bien;
+
+public class khai_bao_su_dung_bien {
     public static void main(String[] args) {
         int i = 10;
         float f = 20.5f;
@@ -13,4 +15,5 @@ public class khaiBaoVaSuDungBien {
         System.out.println("c = " + c);
         System.out.println("s = " + s);
     }
+
 }
