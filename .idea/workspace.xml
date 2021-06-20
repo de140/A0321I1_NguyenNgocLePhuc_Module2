@@ -20,28 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7335f44e-8a6d-4b14-a864-eb224ab45f44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A0321I1_NguyenNgocLePhuc_Module2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/systemTime/systemTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/khai_bao_su_dung_bien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/su_dung_toan_tu/su_dung_toan_tu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/A0321I1_NguyenNgocLePhuc_Module2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/System_Time.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/out/production/System_Time/systemTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/hien_thi_thoi_gian_cua_he_thong/System_Time/src/systemTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/khai_bao_va_su_dung_bien.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/out/production/khai_bao_va_su_dung_bien/khaiBaoVaSuDungBien.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1_Introduce_to_java/thuc_hanh/khai_bao_va_su_dung_bien/src/khaiBaoVaSuDungBien.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/bai_tap/hien_thi_loi_chao/hien_thi_loi_chao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/bai_tap/ung_dung_chuyen_doi_tien_te/ung_dung_chuyen_doi_tien_te.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/bai_tap/ung_dung_doc_so_thanh_chu/ung_dung_doc_so_thanh_chu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/giai_phuong_trinh_bac_nhat/giai_phuong_trinh_bac_nhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/kiem_tra_nam_nhuan/kiem_tra_nam_nhuan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/tinh_chi_so_can_nang_cua_co_the/tinh_chi_so_can_nang_cua_co_the.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/tinh_so_ngay_trong_thang/tinh_so_ngay_trong_thang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_vong_lap_trong_java/bai_tap/hien_thi_20_so_nguyen_to_dau_tien/hien_thi_20_so_nguyen_to_dau_tien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_vong_lap_trong_java/bai_tap/hien_thi_cac_loai_hinh/hien_thi_cac_loai_hinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_vong_lap_trong_java/bai_tap/hien_thi_cac_so_nguyen_to_lon_hon100/hien_thi_cac_so_nguyen_to_lon_hon100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_vong_lap_trong_java/thuc_hanh/kiem_tra_so_nguyen_to/kiem_tra_so_nguyen_to.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_vong_lap_trong_java/thuc_hanh/thiet_ke_menu_cho_ung_dung/thiet_ke_menu_cho_ung_dung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_vong_lap_trong_java/thuc_hanh/tim_uoc_chung_lon_nhat/tim_uoc_chung_lon_nhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2_vong_lap_trong_java/thuc_hanh/ung_dung_tinh_tien_lai_cho_vay/ung_dung_tinh_tien_lai_cho_vay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A0321I1_NguyenNgocLePhuc_Module2/bai1_introduce_to_java/thuc_hanh/su_dung_toan_tu/su_dung_toan_tu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/A0321I1_NguyenNgocLePhuc_Module2/bai1_introduce_to_java/thuc_hanh/su_dung_toan_tu/su_dung_toan_tu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/su_dung_toan_tu/su_dung_toan_tu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai1_introduce_to_java/thuc_hanh/su_dung_toan_tu/su_dung_toan_tu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +76,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.su_dung_toan_tu">
+  <component name="RunManager" selected="Application.hien_thi_cac_loai_hinh">
+    <configuration name="hien_thi_cac_loai_hinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai2_vong_lap_trong_java.bai_tap.hien_thi_cac_loai_hinh.hien_thi_cac_loai_hinh" />
+      <module name="A0321I1_NguyenNgocLePhuc_Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai2_vong_lap_trong_java.bai_tap.hien_thi_cac_loai_hinh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="khai_bao_su_dung_bien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bai1_introduce_to_java.thuc_hanh.khai_bao_va_su_dung_bien.khai_bao_su_dung_bien" />
       <module name="A0321I1_NguyenNgocLePhuc_Module2" />
@@ -109,12 +118,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="systemTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai1_introduce_to_java.thuc_hanh.hien_thi_thoi_gian_cua_he_thong.systemTime.systemTime" />
+    <configuration name="tinh_chi_so_can_nang_cua_co_the" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai1_introduce_to_java.thuc_hanh.tinh_chi_so_can_nang_cua_co_the.tinh_chi_so_can_nang_cua_co_the" />
       <module name="A0321I1_NguyenNgocLePhuc_Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai1_introduce_to_java.thuc_hanh.hien_thi_thoi_gian_cua_he_thong.systemTime.*" />
+          <option name="PATTERN" value="bai1_introduce_to_java.thuc_hanh.tinh_chi_so_can_nang_cua_co_the.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ung_dung_doc_so_thanh_chu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai1_introduce_to_java.bai_tap.ung_dung_doc_so_thanh_chu.ung_dung_doc_so_thanh_chu" />
+      <module name="A0321I1_NguyenNgocLePhuc_Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai1_introduce_to_java.bai_tap.ung_dung_doc_so_thanh_chu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,9 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hien_thi_cac_loai_hinh" />
+        <item itemvalue="Application.tinh_chi_so_can_nang_cua_co_the" />
+        <item itemvalue="Application.ung_dung_doc_so_thanh_chu" />
         <item itemvalue="Application.su_dung_toan_tu" />
         <item itemvalue="Application.khai_bao_su_dung_bien" />
-        <item itemvalue="Application.systemTime" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +164,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624024574145</updated>
-      <workItem from="1624024576840" duration="3185000" />
+      <workItem from="1624024576840" duration="3948000" />
+      <workItem from="1624093405453" duration="5268000" />
+      <workItem from="1624201572010" duration="3254000" />
     </task>
     <servers />
   </component>
@@ -157,27 +183,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1624024582195">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1624024582195" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1624027589644">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1624205355123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624027589644" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1624027589643">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624205355123" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1624205355123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624027589643" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1624027589643">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624205355123" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1624205355123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624027589643" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1624027589644">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624205355123" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1624205355123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624027589644" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624205355123" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1624095372586">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1624095372586" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1624094838316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1624094838316" />
   </component>
 </project>

@@ -9,10 +9,8 @@ public class su_dung_toan_tu {
         float height;
 
         Scanner scanner = new Scanner(System.in);
-
         System.out.println("Enter width: ");
         width = scanner.nextFloat();
-
         System.out.println("Enter height: ");
         height = scanner.nextFloat();
         float area = width * height;
