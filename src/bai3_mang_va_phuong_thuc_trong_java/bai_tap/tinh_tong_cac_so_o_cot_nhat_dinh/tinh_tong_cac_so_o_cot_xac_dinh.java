@@ -22,7 +22,7 @@ public class tinh_tong_cac_so_o_cot_xac_dinh {
         int sum = 0;
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < col; j++) {
-                if (iCol == j){
+                if (iCol == j) {
                     sum += array[i][j];
                 }
             }
@@ -30,6 +30,7 @@ public class tinh_tong_cac_so_o_cot_xac_dinh {
         return sum;
 
     }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
