@@ -20,38 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7335f44e-8a6d-4b14-a864-eb224ab45f44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bai11_dsa_stack_queue/bai_tap/dao_nguoc_phan_tu_trong_mang_so_nguyen/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai11_dsa_stack_queue/bai_tap/dao_nguoc_phan_tu_trong_mang_so_nguyen/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai11_dsa_stack_queue/thuc_hanh/trien_khai_queue/LinkedListQueueClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai11_dsa_stack_queue/thuc_hanh/trien_khai_queue/MyLinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai11_dsa_stack_queue/thuc_hanh/trien_khai_queue/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai11_dsa_stack_queue/thuc_hanh/trien_khai_stack/GenericStackClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai11_dsa_stack_queue/thuc_hanh/trien_khai_stack/MyGenericStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/thuc_hanh/phan_biet_hashmap_hashset/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/thuc_hanh/sap_xep_comparable_comparator/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/thuc_hanh/sap_xep_comparable_comparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/thuc_hanh/sap_xep_comparable_comparator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/SortProductAscending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/SortProductDescending.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/bai_tap/trien_khai_phuong_thuc_cua_arraylist/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/bai_tap/trien_khai_phuong_thuc_cua_arraylist/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/bai_tap/trien_khai_phuong_thuc_cua_arraylist/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/bai_tap/trien_khai_phuong_thuc_cua_arraylist/MyListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/bai_tap/trien_khai_phuong_thuc_cua_linkedlist/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/bai_tap/trien_khai_phuong_thuc_cua_linkedlist/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/bai_tap/trien_khai_phuong_thuc_cua_linkedlist/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/bai_tap/trien_khai_phuong_thuc_cua_linkedlist/MyLinkedListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/thuc_hanh/Trien_khai_list_don_gian/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/thuc_hanh/Trien_khai_list_don_gian/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/thuc_hanh/Trien_khai_list_don_gian/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/thuc_hanh/Trien_khai_list_don_gian/MyListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/thuc_hanh/linkedlist_simple/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/thuc_hanh/linkedlist_simple/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/thuc_hanh/linkedlist_simple/TestMyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai10_dsa_danh_sach/thuc_hanh/linkedlist_simple/TestMyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai8_clean_code_and_refactoring/bai_tap/doi_ten_bien_va_tach_hang/TennisGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai8_clean_code_and_refactoring/bai_tap/doi_ten_bien_va_tach_hang/TennisGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai8_clean_code_and_refactoring/thuc_hanh/tach_bien/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai8_clean_code_and_refactoring/thuc_hanh/tach_bien/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai8_clean_code_and_refactoring/thuc_hanh/tach_phuong_thuc/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai8_clean_code_and_refactoring/thuc_hanh/tach_phuong_thuc/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/case_study/task2/models/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/case_study/task2/models/Booking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/case_study/task2/models/Contract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/case_study/task2/models/Contract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/case_study/task2/models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/case_study/task2/models/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/case_study/task2/models/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/case_study/task2/models/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/case_study/task2/models/Facility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/case_study/task2/models/Facility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/case_study/task2/models/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/case_study/task2/models/House.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/case_study/task2/models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/case_study/task2/models/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/case_study/task2/models/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/case_study/task2/models/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/case_study/task2/models/Villa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/case_study/task2/models/Villa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +181,7 @@
       <workItem from="1627200505218" duration="3141000" />
       <workItem from="1627229197828" duration="621000" />
       <workItem from="1627642774462" duration="913000" />
-      <workItem from="1627790579276" duration="3047000" />
+      <workItem from="1627790579276" duration="5219000" />
     </task>
     <servers />
   </component>
