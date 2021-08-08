@@ -1,16 +1,16 @@
 package bai12_java_collection_framework.bai_tap.luyen_tap_su_dung_arraylist_linkedlist.arraylist;
 
-public class Product {
+public class Product implements Comparable<Product> {
     private int id;
-    private String productName;
+    private String nameProduct;
     private double price;
 
     public Product() {
     }
 
-    public Product(int id, String productName, double price) {
+    public Product(int id, String nameProduct, double price) {
         this.id = id;
-        this.productName = productName;
+        this.nameProduct = nameProduct;
         this.price = price;
     }
 
@@ -22,12 +22,12 @@ public class Product {
         this.id = id;
     }
 
-    public String getProductName() {
-        return productName;
+    public String getNameProduct() {
+        return nameProduct;
     }
 
-    public void setProductName(String productName) {
-        this.productName = productName;
+    public void setNameProduct(String nameProduct) {
+        this.nameProduct = nameProduct;
     }
 
     public double getPrice() {
@@ -38,12 +38,12 @@ public class Product {
         this.price = price;
     }
 
-    @Override
     public String toString() {
-        return "Product{" +
-                "id=" + id +
-                ", productName='" + productName + '\'' +
-                ", price=" + price +
-                '}';
+        return "ID: " + id + ", Name product: " + nameProduct + ", Price: " + price;
+    }
+
+    @Override
+    public int compareTo(Product o) {
+        return this.getNameProduct().compareTo(o.getNameProduct());
     }
 }

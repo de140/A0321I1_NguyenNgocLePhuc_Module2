@@ -20,11 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7335f44e-8a6d-4b14-a864-eb224ab45f44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/SortProductAscending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/SortProductDescending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/PriceComparatorAscending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/PriceComparatorDescending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai13_thuat_toan_tim_kiem/bai_tap/tim_chuoi_tang_dan/AscendingString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai13_thuat_toan_tim_kiem/thuc_hanh/BinarySearch/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A0321I1_NguyenNgocLePhuc_Module2/bai8_clean_code_and_refactoring/bai_tap/doi_ten_bien_va_tach_hang/TennisGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/A0321I1_NguyenNgocLePhuc_Module2/bai8_clean_code_and_refactoring/bai_tap/doi_ten_bien_va_tach_hang/TennisGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/SortProductAscending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai12_java_collection_framework/bai_tap/luyen_tap_su_dung_arraylist_linkedlist/arraylist/SortProductDescending.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +72,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.MyListTest">
-    <configuration name="AbstractAndInterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai7_Abstract_class_and_interface.thuc_hanh.lop_animal_and_interface_edible.AbstractAndInterfaceTest" />
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="AscendingString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai13_thuat_toan_tim_kiem.bai_tap.tim_chuoi_tang_dan.AscendingString" />
       <module name="A0321I1_NguyenNgocLePhuc_Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai7_Abstract_class_and_interface.thuc_hanh.lop_animal_and_interface_edible.*" />
+          <option name="PATTERN" value="bai13_thuat_toan_tim_kiem.bai_tap.tim_chuoi_tang_dan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="case_study.Main" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai13_thuat_toan_tim_kiem.thuc_hanh.BinarySearch.BinarySearch" />
       <module name="A0321I1_NguyenNgocLePhuc_Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="case_study.*" />
+          <option name="PATTERN" value="bai13_thuat_toan_tim_kiem.thuc_hanh.BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai10_dsa_danh_sach.bai_tap.trien_khai_phuong_thuc_cua_arraylist.MyListTest" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai12_java_collection_framework.bai_tap.luyen_tap_su_dung_arraylist_linkedlist.arraylist.Main" />
       <module name="A0321I1_NguyenNgocLePhuc_Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai10_dsa_danh_sach.bai_tap.trien_khai_phuong_thuc_cua_arraylist.*" />
+          <option name="PATTERN" value="bai12_java_collection_framework.bai_tap.luyen_tap_su_dung_arraylist_linkedlist.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hien_thi_cac_loai_hinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai2_vong_lap_trong_java.bai_tap.hien_thi_cac_loai_hinh.hien_thi_cac_loai_hinh" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai13_thuat_toan_tim_kiem.bai_tap.tim_chuoi_tang_dan.Main" />
       <module name="A0321I1_NguyenNgocLePhuc_Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai2_vong_lap_trong_java.bai_tap.hien_thi_cac_loai_hinh.*" />
+          <option name="PATTERN" value="bai13_thuat_toan_tim_kiem.bai_tap.tim_chuoi_tang_dan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai4_lop_va_doi_tuong_trong_java.bai_tap.phuong_trinh_bac_hai.main" />
+    <configuration name="ProductManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai12_java_collection_framework.bai_tap.luyen_tap_su_dung_arraylist_linkedlist.linkedlist.ProductManager" />
       <module name="A0321I1_NguyenNgocLePhuc_Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai4_lop_va_doi_tuong_trong_java.bai_tap.phuong_trinh_bac_hai.*" />
+          <option name="PATTERN" value="bai12_java_collection_framework.bai_tap.luyen_tap_su_dung_arraylist_linkedlist.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyListTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.AbstractAndInterfaceTest" />
-        <item itemvalue="Application.hien_thi_cac_loai_hinh" />
-        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.AscendingString" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ProductManager" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +186,10 @@
       <workItem from="1627200505218" duration="3141000" />
       <workItem from="1627229197828" duration="621000" />
       <workItem from="1627642774462" duration="913000" />
-      <workItem from="1627790579276" duration="5219000" />
+      <workItem from="1627790579276" duration="6942000" />
+      <workItem from="1627908255110" duration="1400000" />
+      <workItem from="1628074902704" duration="626000" />
+      <workItem from="1628413192490" duration="2251000" />
     </task>
     <servers />
   </component>
@@ -205,6 +213,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1624024582195" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1628413833711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1628413833711" />
     <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1624762116382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -213,31 +225,31 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="453" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1624271503043" />
-    <state x="686" y="194" key="FileChooserDialogImpl" timestamp="1627643088359">
+    <state x="686" y="194" key="FileChooserDialogImpl" timestamp="1627908520587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624620130347" />
-    <state x="686" y="194" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627643088359" />
-    <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1627222222725">
+    <state x="686" y="194" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627908520587" />
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom" timestamp="1628415299807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625200911175" />
-    <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1627222222725" />
-    <state width="1877" height="273" key="GridCell.Tab.0.center" timestamp="1627222222725">
+    <state width="1877" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628415299807" />
+    <state width="1877" height="273" key="GridCell.Tab.0.center" timestamp="1628415299807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1625200911175" />
-    <state width="1877" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1627222222725" />
-    <state width="1877" height="273" key="GridCell.Tab.0.left" timestamp="1627222222725">
+    <state width="1877" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628415299807" />
+    <state width="1877" height="273" key="GridCell.Tab.0.left" timestamp="1628415299807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1625200911175" />
-    <state width="1877" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1627222222725" />
-    <state width="1877" height="273" key="GridCell.Tab.0.right" timestamp="1627222222725">
+    <state width="1877" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628415299807" />
+    <state width="1877" height="273" key="GridCell.Tab.0.right" timestamp="1628415299807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1625200911175" />
-    <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1627222222725" />
+    <state width="1877" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628415299807" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1624283692278">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
